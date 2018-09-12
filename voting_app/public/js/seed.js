@@ -39,7 +39,7 @@ window.Seed = (function () {
       votes: generateVoteCount(),
       submitterAvatarUrl: 'images/avatars/molly.png',
       productImageUrl: 'images/products/image-yellow.png',
-    },
+      },
   ];
 
   return { products: products };
