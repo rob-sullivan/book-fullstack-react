@@ -1,10 +1,12 @@
 {
   "ExpandedNodes": [
     "",
+    "\\time_tracking_app",
     "\\time_tracking_app\\public",
+    "\\time_tracking_app\\public\\js",
     "\\voting_app\\public",
     "\\voting_app\\public\\js"
   ],
-  "SelectedNode": "\\time_tracking_app",
+  "SelectedNode": "\\time_tracking_app\\public\\js\\app-amp.js",
   "PreviewInSolutionExplorer": false
 }
