@@ -51,8 +51,9 @@ app.post('/api/timers/start', (req, res) => {
     const timers = JSON.parse(data);
     timers.forEach((timer) => {
       if (timer.id === req.body.id) {
-        timer.runningSince = req.body.start;
-      }
+          timer.runningSince = req.body.start;
+
+        }
     });
     fs.writeFile(DATA_FILE, JSON.stringify(timers, null, 4), () => {
       res.json({});
