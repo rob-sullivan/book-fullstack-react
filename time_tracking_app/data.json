@@ -1,9 +1,23 @@
 [
     {
-        "title": "test task 1",
-        "project": "test project 2",
-        "id": "41187058-34f4-428d-a901-a459bd33c9e3",
-        "elapsed": 3699,
-        "runningSince": 1539220069216
+        "title": "second task",
+        "project": "second project",
+        "id": "188b9819-8607-462e-9cf4-fd711ab31a71",
+        "elapsed": 41009,
+        "runningSince": null
+    },
+    {
+        "title": "third task",
+        "project": "project 3",
+        "id": "9b84c5b8-e23e-48a5-9e32-6bbdb8f867a8",
+        "elapsed": 0,
+        "runningSince": null
+    },
+    {
+        "title": "fourth task",
+        "project": "project 4",
+        "id": "b1433091-c2ab-40f3-b1ac-b1b1d4a4d6f6",
+        "elapsed": 0,
+        "runningSince": null
     }
 ]
